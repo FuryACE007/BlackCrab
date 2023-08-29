@@ -203,8 +203,9 @@ const AboutUsPara = styled.div`
     margin-bottom:3rem;
     font-weight: 500;
     font-family: "Secular One", sans-serif;
-    letter-spacing: 2px;
     line-height: 2;
+    margin-left:2rem;
+    margin-right:2rem;
 `
 
 
